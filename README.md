@@ -11,3 +11,6 @@ To run the game you need to install LUA interpreter and Love2D engine from:
 
 ## Control
 Click on screen to move and shoot the asteroids
+
+## Publish
+The game is published at [itch.io](https://bayusetiaji.itch.io/spacexplorer)
